@@ -2,7 +2,7 @@
 #### {Brief description of application}, {Date of current version}
 #### By **{List of contributors}**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+It's a little-known fact that wildcats are actually great dance partners. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
